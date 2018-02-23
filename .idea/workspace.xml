@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65a1d93d-163a-4f47-b67a-ce1413b7c3e2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Lab5.iml" afterPath="$PROJECT_DIR$/.idea/modules/Lab5.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Bank.java" afterPath="$PROJECT_DIR$/src/main/java/Bank.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BankAccount.java" afterPath="$PROJECT_DIR$/src/main/java/BankAccount.java" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -16,19 +18,39 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.18.0" />
+      </map>
+    </option>
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="Bank.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Bank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-              <folding />
+            <state relative-caret-position="2295">
+              <caret line="156" column="57" lean-forward="true" selection-start-line="156" selection-start-column="57" selection-end-line="156" selection-end-column="57" />
+              <folding>
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#538#539#0" expanded="true" />
+                <element signature="e#621#622#0" expanded="true" />
+                <element signature="e#652#653#0" expanded="true" />
+                <element signature="e#782#783#0" expanded="true" />
+                <element signature="e#825#826#0" expanded="true" />
+                <element signature="e#2942#2943#0" expanded="true" />
+                <element signature="e#2988#2989#0" expanded="true" />
+                <element signature="e#3282#3283#0" expanded="true" />
+                <element signature="e#3318#3319#0" expanded="true" />
+                <element signature="e#3422#3423#0" expanded="true" />
+                <element signature="e#3453#3454#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -36,9 +58,34 @@
       <file leaf-file-name="BankAccount.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/BankAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="1411">
+              <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+              <folding>
+                <element signature="e#1440#1441#0" expanded="true" />
+                <element signature="e#1477#1478#0" expanded="true" />
+                <element signature="e#1646#1647#0" expanded="true" />
+                <element signature="e#1701#1702#0" expanded="true" />
+                <element signature="e#1792#1793#0" expanded="true" />
+                <element signature="e#1827#1828#0" expanded="true" />
+                <element signature="e#1977#1978#0" expanded="true" />
+                <element signature="e#2028#2029#0" expanded="true" />
+                <element signature="e#2124#2125#0" expanded="true" />
+                <element signature="e#2156#2157#0" expanded="true" />
+                <element signature="e#2299#2300#0" expanded="true" />
+                <element signature="e#2344#2345#0" expanded="true" />
+                <element signature="e#2443#2444#0" expanded="true" />
+                <element signature="e#2480#2481#0" expanded="true" />
+                <element signature="e#2630#2631#0" expanded="true" />
+                <element signature="e#2685#2686#0" expanded="true" />
+                <element signature="e#2775#2776#0" expanded="true" />
+                <element signature="e#2811#2812#0" expanded="true" />
+                <element signature="e#2961#2962#0" expanded="true" />
+                <element signature="e#3014#3015#0" expanded="true" />
+                <element signature="e#3112#3113#0" expanded="true" />
+                <element signature="e#3146#3147#0" expanded="true" />
+                <element signature="e#3301#3302#0" expanded="true" />
+                <element signature="e#3350#3351#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,7 +98,7 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\Eduardo Gonzalez\.gradle\wrapper\dists\gradle-4.5-bin\bgd6nrwgxy3inh8yed6gmsvbx\gradle-4.5" />
       </map>
     </option>
     <option name="myGradleVersions">
@@ -236,7 +283,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6074856361000" />
+        <entry key="$PROJECT_DIR$" value="6076599001612" />
         <entry key="$PROJECT_DIR$/build.gradle" value="412753189" />
         <entry key="$PROJECT_DIR$/gradle.properties" value="3666243058" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2101766214" />
@@ -262,80 +309,80 @@
               <option name="name" value="Lab5" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-wrapper-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-logging-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-native-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-runtime-api-info-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-build-cache-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-kotlin-dsl-tooling-builders-0.14.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-process-services-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-installation-beacon-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/groovy-all-2.4.12.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-base-services-groovy-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-model-core-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/ant-launcher-1.9.9.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-core-4.5.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/ant-1.9.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/ant-launcher-1.9.9.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-base-services-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-base-services-groovy-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-build-cache-4.5.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-build-option-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-messaging-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-jvm-services-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-launcher-4.5.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-cli-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-docs-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-persistent-cache-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-kotlin-dsl-tooling-models-0.14.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-core-4.5.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-core-api-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-tooling-api-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-docs-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-installation-beacon-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-jvm-services-4.5.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-kotlin-dsl-0.14.2.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-resources-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-kotlin-dsl-tooling-builders-0.14.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-kotlin-dsl-tooling-models-0.14.2.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-launcher-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-logging-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-messaging-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-model-core-4.5.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-model-groovy-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-scala-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ide-play-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-tooling-api-builders-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-native-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-persistent-cache-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-process-services-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-resources-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-runtime-api-info-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-tooling-api-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/gradle-wrapper-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/groovy-all-2.4.12.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-announce-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-plugin-use-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-platform-native-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-jacoco-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-plugins-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-build-comparison-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-native-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-version-control-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-javascript-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-antlr-4.5.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-build-cache-http-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-workers-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-plugin-development-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-diagnostics-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ide-native-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-platform-base-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-jvm-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ear-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-publish-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-build-comparison-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-build-init-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-code-quality-4.5.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-composite-builds-4.5.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-dependency-management-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-testing-native-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-scala-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-resources-http-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-platform-play-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-diagnostics-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ear-4.5.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ide-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-resources-gcs-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-antlr-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-reporting-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-osgi-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ide-native-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ide-play-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ivy-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-jacoco-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-javascript-4.5.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-groovy-4.5.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-java-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-test-kit-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-ivy-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-resources-sftp-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-signing-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-resources-s3-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-code-quality-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-jvm-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-native-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-language-scala-4.5.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-maven-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-osgi-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-platform-base-4.5.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-platform-jvm-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-platform-native-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-platform-play-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-plugin-development-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-plugin-use-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-plugins-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-publish-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-reporting-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-resources-gcs-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-resources-http-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-resources-s3-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-resources-sftp-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-scala-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-signing-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-test-kit-4.5.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-testing-base-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/ivy-2.2.0.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-testing-jvm-4.5.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-build-init-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-testing-native-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-tooling-api-builders-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-version-control-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/gradle-workers-4.5.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.5-bin/bgd6nrwgxy3inh8yed6gmsvbx/gradle-4.5/lib/plugins/ivy-2.2.0.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -369,10 +416,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Bank.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BankAccount.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="773" />
@@ -410,29 +458,25 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Lab5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="Lab5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab5" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -564,23 +608,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
+    <frame x="-8" y="-8" width="1552" height="840" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32890856" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890856" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38303694" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1907552" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -593,6 +638,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890856" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -605,19 +651,273 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#2942#2943#0" expanded="true" />
+            <element signature="e#2988#2989#0" expanded="true" />
+            <element signature="e#3282#3283#0" expanded="true" />
+            <element signature="e#3318#3319#0" expanded="true" />
+            <element signature="e#3422#3423#0" expanded="true" />
+            <element signature="e#3453#3454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/BankAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="1615">
+          <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+          <folding>
+            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1477#1478#0" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+            <element signature="e#1701#1702#0" expanded="true" />
+            <element signature="e#1792#1793#0" expanded="true" />
+            <element signature="e#1827#1828#0" expanded="true" />
+            <element signature="e#1977#1978#0" expanded="true" />
+            <element signature="e#2028#2029#0" expanded="true" />
+            <element signature="e#2124#2125#0" expanded="true" />
+            <element signature="e#2156#2157#0" expanded="true" />
+            <element signature="e#2299#2300#0" expanded="true" />
+            <element signature="e#2344#2345#0" expanded="true" />
+            <element signature="e#2443#2444#0" expanded="true" />
+            <element signature="e#2480#2481#0" expanded="true" />
+            <element signature="e#2630#2631#0" expanded="true" />
+            <element signature="e#2685#2686#0" expanded="true" />
+            <element signature="e#2775#2776#0" expanded="true" />
+            <element signature="e#2811#2812#0" expanded="true" />
+            <element signature="e#2961#2962#0" expanded="true" />
+            <element signature="e#3014#3015#0" expanded="true" />
+            <element signature="e#3112#3113#0" expanded="true" />
+            <element signature="e#3146#3147#0" expanded="true" />
+            <element signature="e#3301#3302#0" expanded="true" />
+            <element signature="e#3350#3351#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="3423">
+          <caret line="163" column="0" lean-forward="true" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
+          <folding>
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#2942#2943#0" expanded="true" />
+            <element signature="e#2988#2989#0" expanded="true" />
+            <element signature="e#3282#3283#0" expanded="true" />
+            <element signature="e#3318#3319#0" expanded="true" />
+            <element signature="e#3422#3423#0" expanded="true" />
+            <element signature="e#3453#3454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1477#1478#0" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+            <element signature="e#1701#1702#0" expanded="true" />
+            <element signature="e#1792#1793#0" expanded="true" />
+            <element signature="e#1827#1828#0" expanded="true" />
+            <element signature="e#1977#1978#0" expanded="true" />
+            <element signature="e#2028#2029#0" expanded="true" />
+            <element signature="e#2124#2125#0" expanded="true" />
+            <element signature="e#2156#2157#0" expanded="true" />
+            <element signature="e#2299#2300#0" expanded="true" />
+            <element signature="e#2344#2345#0" expanded="true" />
+            <element signature="e#2443#2444#0" expanded="true" />
+            <element signature="e#2480#2481#0" expanded="true" />
+            <element signature="e#2630#2631#0" expanded="true" />
+            <element signature="e#2685#2686#0" expanded="true" />
+            <element signature="e#2775#2776#0" expanded="true" />
+            <element signature="e#2811#2812#0" expanded="true" />
+            <element signature="e#2961#2962#0" expanded="true" />
+            <element signature="e#3014#3015#0" expanded="true" />
+            <element signature="e#3112#3113#0" expanded="true" />
+            <element signature="e#3146#3147#0" expanded="true" />
+            <element signature="e#3301#3302#0" expanded="true" />
+            <element signature="e#3350#3351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#2942#2943#0" expanded="true" />
+            <element signature="e#2988#2989#0" expanded="true" />
+            <element signature="e#3282#3283#0" expanded="true" />
+            <element signature="e#3318#3319#0" expanded="true" />
+            <element signature="e#3422#3423#0" expanded="true" />
+            <element signature="e#3453#3454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1239">
+          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding>
+            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1477#1478#0" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+            <element signature="e#1701#1702#0" expanded="true" />
+            <element signature="e#1792#1793#0" expanded="true" />
+            <element signature="e#1827#1828#0" expanded="true" />
+            <element signature="e#1977#1978#0" expanded="true" />
+            <element signature="e#2028#2029#0" expanded="true" />
+            <element signature="e#2124#2125#0" expanded="true" />
+            <element signature="e#2156#2157#0" expanded="true" />
+            <element signature="e#2299#2300#0" expanded="true" />
+            <element signature="e#2344#2345#0" expanded="true" />
+            <element signature="e#2443#2444#0" expanded="true" />
+            <element signature="e#2480#2481#0" expanded="true" />
+            <element signature="e#2630#2631#0" expanded="true" />
+            <element signature="e#2685#2686#0" expanded="true" />
+            <element signature="e#2775#2776#0" expanded="true" />
+            <element signature="e#2811#2812#0" expanded="true" />
+            <element signature="e#2961#2962#0" expanded="true" />
+            <element signature="e#3014#3015#0" expanded="true" />
+            <element signature="e#3112#3113#0" expanded="true" />
+            <element signature="e#3146#3147#0" expanded="true" />
+            <element signature="e#3301#3302#0" expanded="true" />
+            <element signature="e#3350#3351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
           <caret line="31" column="4" lean-forward="false" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
-          <folding />
+          <folding>
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#2942#2943#0" expanded="true" />
+            <element signature="e#2988#2989#0" expanded="true" />
+            <element signature="e#3282#3283#0" expanded="true" />
+            <element signature="e#3318#3319#0" expanded="true" />
+            <element signature="e#3422#3423#0" expanded="true" />
+            <element signature="e#3453#3454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1477#1478#0" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+            <element signature="e#1701#1702#0" expanded="true" />
+            <element signature="e#1792#1793#0" expanded="true" />
+            <element signature="e#1827#1828#0" expanded="true" />
+            <element signature="e#1977#1978#0" expanded="true" />
+            <element signature="e#2028#2029#0" expanded="true" />
+            <element signature="e#2124#2125#0" expanded="true" />
+            <element signature="e#2156#2157#0" expanded="true" />
+            <element signature="e#2299#2300#0" expanded="true" />
+            <element signature="e#2344#2345#0" expanded="true" />
+            <element signature="e#2443#2444#0" expanded="true" />
+            <element signature="e#2480#2481#0" expanded="true" />
+            <element signature="e#2630#2631#0" expanded="true" />
+            <element signature="e#2685#2686#0" expanded="true" />
+            <element signature="e#2775#2776#0" expanded="true" />
+            <element signature="e#2811#2812#0" expanded="true" />
+            <element signature="e#2961#2962#0" expanded="true" />
+            <element signature="e#3014#3015#0" expanded="true" />
+            <element signature="e#3112#3113#0" expanded="true" />
+            <element signature="e#3146#3147#0" expanded="true" />
+            <element signature="e#3301#3302#0" expanded="true" />
+            <element signature="e#3350#3351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+          <folding>
+            <element signature="e#1440#1441#0" expanded="true" />
+            <element signature="e#1477#1478#0" expanded="true" />
+            <element signature="e#1646#1647#0" expanded="true" />
+            <element signature="e#1701#1702#0" expanded="true" />
+            <element signature="e#1792#1793#0" expanded="true" />
+            <element signature="e#1827#1828#0" expanded="true" />
+            <element signature="e#1977#1978#0" expanded="true" />
+            <element signature="e#2028#2029#0" expanded="true" />
+            <element signature="e#2124#2125#0" expanded="true" />
+            <element signature="e#2156#2157#0" expanded="true" />
+            <element signature="e#2299#2300#0" expanded="true" />
+            <element signature="e#2344#2345#0" expanded="true" />
+            <element signature="e#2443#2444#0" expanded="true" />
+            <element signature="e#2480#2481#0" expanded="true" />
+            <element signature="e#2630#2631#0" expanded="true" />
+            <element signature="e#2685#2686#0" expanded="true" />
+            <element signature="e#2775#2776#0" expanded="true" />
+            <element signature="e#2811#2812#0" expanded="true" />
+            <element signature="e#2961#2962#0" expanded="true" />
+            <element signature="e#3014#3015#0" expanded="true" />
+            <element signature="e#3112#3113#0" expanded="true" />
+            <element signature="e#3146#3147#0" expanded="true" />
+            <element signature="e#3301#3302#0" expanded="true" />
+            <element signature="e#3350#3351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="156" column="57" lean-forward="true" selection-start-line="156" selection-start-column="57" selection-end-line="156" selection-end-column="57" />
+          <folding>
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+            <element signature="e#2942#2943#0" expanded="true" />
+            <element signature="e#2988#2989#0" expanded="true" />
+            <element signature="e#3282#3283#0" expanded="true" />
+            <element signature="e#3318#3319#0" expanded="true" />
+            <element signature="e#3422#3423#0" expanded="true" />
+            <element signature="e#3453#3454#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
